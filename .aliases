@@ -131,9 +131,9 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
     alias man="pman"
 fi
 
-alias flora='ssh youruser@flora.slac.stanford.edu'
-alias aegir='ssh youruser@drupal-admin01.slac.stanford.edu'
-alias dev='ssh youruser@drupal-dev01.slac.stanford.edu'
+alias flora='ssh jdoumani@flora.slac.stanford.edu'
+alias aegir='ssh jdoumani@drupal-admin01.slac.stanford.edu'
+alias dev='ssh jdoumani@drupal-dev01.slac.stanford.edu'
 
 
 
